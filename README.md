@@ -34,4 +34,4 @@ Ensure you have Terraform installed and your AWS credentials configured. Place `
 terraform init
 terraform apply -auto-approve
 
-*Note: This readme was create with the assistance of ChatGPT
+*Note: This readme was created with the assistance of ChatGPT
